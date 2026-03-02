@@ -1,2 +1,3 @@
 # Latihan-git
-asdasdas
+this is riezco with z
+
